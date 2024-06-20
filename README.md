@@ -21,6 +21,7 @@ The goal of the project was to design and develop a desktop software tool for do
 - **Q-Doc_Setup.exe** - the application's setup file for Windows
 - **inno_script.iss** - the script used to generate the setup file
 - **requirements.txt** - a set of dependecies used in the development process
+- **pyinstaller_script.txt** - a script used to generate an executable file
 - **hook-tkinterdnd2.py** - an additional file used to enable drag-and-drop interactions in the executable file
 - **license.txt** - the license file (MIT)
 - **q_logo.ico** - the software's icon
