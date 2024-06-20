@@ -4,7 +4,7 @@
 
 ## Overview
 
-The goal of the project was to design and develop a software tool for document organisation in scientific research. The application is a virtual space for grouping, sorting, reading and queuing articles with a DOI code. It was implemented only for Windows so far with the following tech stack: Python, Tkinter, SQLite, Pyinstaller, Inno Setup. The development process was a part of the author's master's thesis project.
+The goal of the project was to design and develop a desktop software tool for document organisation in scientific research. The application is a virtual space for grouping, sorting, reading and queuing articles with a DOI code. It was implemented only for Windows so far with the following tech stack: Python, Tkinter, SQLite, Pyinstaller, Inno Setup. The development process was a part of the author's master's thesis project.
 
 ## Possible developments
 
@@ -13,6 +13,7 @@ The goal of the project was to design and develop a software tool for document o
 - Making the application compatible with other types of documents, not only scientific publications
 - Code optimization
 - Improving the GUI design
+- Redesigning the file storage system and making Q-Doc a web app
 
 ## Repository files
 
