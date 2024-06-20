@@ -1,0 +1,1 @@
+pyinstaller --name=Q-Doc --icon=q_logo.ico --onefile --windowed --additional-hooks-dir=. main.py
