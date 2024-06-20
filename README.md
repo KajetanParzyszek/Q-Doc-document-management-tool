@@ -28,16 +28,25 @@ The goal of the project was to design and develop a software tool for document o
 ## Images
 
 - The application's main view
+- 
 ![](Images/q_doc_view.png)
 
+
 - Editing a document's metadata
+
 ![](Images/q_doc_metadata.png)
 
+
 - Adding notes to an article
+
 ![](Images/q_doc_notes.png)
 
+
 - The database model
+
 ![](Images/db_model.png)
 
+
 - The first step of the installation process
+
 ![](Images/q_doc_install_1.png)
